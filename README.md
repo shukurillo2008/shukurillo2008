@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shukurillo 👋
 
-<!--
-**shukurillo2008/shukurillo2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Python | Django | FastAPI
 
-Here are some ideas to get you started:
+I build scalable backend systems, REST APIs, and automation tools.  
+Passionate about clean code, performance, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+- **Languages:** Python, JavaScript  
+- **Backend:** Django, FastAPI, DRF, Celery  
+- **Databases:** PostgreSQL, MySQL, Redis  
+- **Tools:** Docker, Git, Nginx, Linux  
+- **Cloud:** DigitalOcean, AWS (basic)
+
+---
+
+### 📌 Featured Projects
+🔹 **Project Name** – Short description (Django/React/API/etc)  
+🔗 Repo: `https://github.com/username/project-name`
+
+🔹 **Project Name** – Short description  
+🔗 Repo: `https://github.com/username/project-name`
+
+---
+
+### 📫 Contact
+- Email: yourname@gmail.com  
+- Instagram: @yourusername  
+- LinkedIn: linkedin.com/in/yourusername  
+- Portfolio: yourwebsite.com  
+
+---
+
+### ⭐ Fun fact
+I love creating things that make life easier.
